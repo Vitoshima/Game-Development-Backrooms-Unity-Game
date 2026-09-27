@@ -7,6 +7,11 @@ A first-person exploration horror game set in the Backrooms, built in Unity.
 ## About
 A horror exploration game where you wander through liminal spaces, avoiding entities and trying to find your way out.
 
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/c6e6b6c2-d7b0-4885-9ed4-ed81959ee4a8" />
+
+
+
+
 ## Tech Stack
 - Unity
 - C#

@@ -2,7 +2,7 @@
 
 A first-person exploration horror game set in the Backrooms, built in Unity.
 
- **[Play it here](https://play.unity.com/en/games/eab09ab8-5b81-42f8-9cb7-15aff388ec07/backrooms)**
+ **[Play it here](https://play.unity.com/en/games/eab09ab8-5b81-42f8-9cb7-15aff388ec07/backrooms)** (Please press full screen)
 
 ## About
 A horror exploration game where you wander through liminal spaces, avoiding entities and trying to find your way out.
